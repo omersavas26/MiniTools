@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-17T07:45:45.174Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.8.1" etag="rxSOglIMKIZu8cgsYKX8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-17T07:46:26.826Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.8.1" etag="IT41j8amY-PlN1khG3cC" type="github">
   <diagram id="n8Z6SS6ofK7uxzqAPtRN" name="Page-1">
     <mxGraphModel dx="848" dy="605" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -36,6 +36,11 @@
         </mxCell>
         <mxCell id="UQOwW32ChrhTyCgGbpYT-12" value="* Gizle Sekmeden giriş dene" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="40" y="240" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UQOwW32ChrhTyCgGbpYT-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;endArrow=none;endFill=0;dashed=1;" edge="1" parent="1" source="UQOwW32ChrhTyCgGbpYT-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="250" y="210" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="UQOwW32ChrhTyCgGbpYT-13" value="Güncel şifreleri Ldap &#39;a gönder&lt;br&gt;&lt;br&gt;http://192.168.10.140:9000/&lt;br&gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;php artisan data:entegrator 4&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;php artisan data:entegrator 5" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="170" y="350" width="160" height="90" as="geometry" />
